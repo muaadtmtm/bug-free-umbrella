@@ -1,4 +1,11 @@
 {
+  // ...
+  "browser": {
+    "vue": "vue/dist/vue.common.js"
+  }
+}
+
+{
   "name": "ladybug",
   "version": "1.0.0",
   "description": "A Vue.js project",
