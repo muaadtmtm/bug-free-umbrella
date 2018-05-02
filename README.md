@@ -21,4 +21,11 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## Présentation du projet
-## ntm
+## On veut créer un site de vente de chaussures et de vetements. On veut avoir la possibilité de cliquer sur l'habit pour avoir son prix et son information.
+## Denis
+
+## Quentin
+
+## Muaad
+
+## Naila
